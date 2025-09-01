@@ -54,7 +54,8 @@ In this project, I performed **forensic analysis** of a real-world style phishin
      ![Email Content Screenshot](images/sample_Email_with_AttachmentPdf.png)
      
    - Detected attachment disguised as a **PDF file** but actually a **ZIP archive**
-
+       - This is the attachment pretending  pdf file with email
+         ![Email Content Screenshot](images/attachmentpdf_HEX_value.png)
       
      ![Email Content Screenshot](images/attachmentpdf_HEX_value.png) 
       ---
