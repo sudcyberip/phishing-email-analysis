@@ -81,4 +81,11 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 
 ---
 
+## 🚩 Key Findings  
+- ❌ **Sender and Reply-To mismatch**  
+- ❌ **SPF validation failed**  
+- ⚠️ **Suspicious demand for money**  
+- ⚠️ **Attachment disguised as PDF → actually ZIP**  
+- ⚠️ **Malicious files hidden inside ZIP (PDF, JPG, XLX)** 
+
 
