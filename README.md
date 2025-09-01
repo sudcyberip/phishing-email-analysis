@@ -5,4 +5,5 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 
 
 
-![Email Content Screenshot](images/email_content.png)
+
+![Email Content Screenshot](images/scenerio_from_BTLO.png)
