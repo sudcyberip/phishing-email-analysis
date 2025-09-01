@@ -56,8 +56,8 @@ In this project, I performed **forensic analysis** of a real-world style phishin
    - Detected attachment disguised as a **PDF file** but actually a **ZIP archive**
 
       
-     ![Email Content Screenshot](images/email_header_spf_fail.png) 
-
+     ![Email Content Screenshot](images/attachmentpdf_HEX_value.png) 
+      ---
 3. **Attachment Analysis**  
    - Extracted contents of the ZIP file  
    - Found 3 files:  
