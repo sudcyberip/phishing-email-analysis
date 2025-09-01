@@ -106,8 +106,8 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 | **What is the name of the malicious actor?** | Pestero Negeja |
 | **What is the location of the attacker in this Universe?** | The Martian Colony, Beside Interplanetary Spaceport |
 | **What could be the probable C&C domain to control the attacker’s autonomous bots?** | pashter.com |
-
-![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg)
+---
+![Email Content Screenshot](images/Complete_Challenge.png)
 
 ---
 
