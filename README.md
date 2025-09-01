@@ -70,7 +70,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
     | `Money.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
     
     [📄 View  (PDF)](pretending-to-be-attached-pdf_file/PuzzleToCoCanDa.pdf)
-    ![Email Content Screenshot](images/attachmentpdf_HEX_value.png) 
+    ![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg) 
     [📥 Download data.xlsx](samples/data.xlsx)
 
 ✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
