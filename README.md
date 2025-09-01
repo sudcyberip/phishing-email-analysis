@@ -86,6 +86,21 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 - ❌ **SPF validation failed**  
 - ⚠️ **Suspicious demand for money**  
 - ⚠️ **Attachment disguised as PDF → actually ZIP**  
-- ⚠️ **Malicious files hidden inside ZIP (PDF, JPG, XLX)** 
+- ⚠️ **Malicious files hidden inside ZIP (PDF, JPG, XLX)**
+ ---
+
+ ## ❓ Q&A Section  (BTLO)
+
+| Question | Answer |
+|----------|--------|
+| **What is the email service used by the malicious actor?** | Emkei.cz |
+| **What is the Reply-To email address?** | negeja3921@pashter.com |
+| **What is the filetype of the received attachment which helped to continue the investigation?** | .zip |
+| **What is the name of the malicious actor?** | Pestero Negeja |
+| **What is the location of the attacker in this Universe?** | The Martian Colony, Beside Interplanetary Spaceport |
+| **What could be the probable C&C domain to control the attacker’s autonomous bots?** | pashter.com |
+
+---
+
 
 
