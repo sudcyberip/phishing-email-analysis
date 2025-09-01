@@ -55,7 +55,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
      
    - Detected attachment disguised as a **PDF file** but actually a **ZIP archive**
        - This is the attachment pretending  pdf file with email
-         [📄 View Full Report (PDF)](pretending-to-be-attached-pdf_file/PuzzleToCoCanDa.pdf)
+         [📄 View  (PDF)](pretending-to-be-attached-pdf_file/PuzzleToCoCanDa.pdf)
        - Check the file signature number  of pdf file and getting the   signature number  of zip file
          ![Email Content Screenshot](images/attachmentpdf_HEX_value.png) 
       ---
@@ -66,7 +66,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 |------|-------------|------|
 | document.pdf | Extracted PDF (disguised) | [Download](evidence/document.pdf) |
 | image.jpg | Evidence image (preview) | ![image.jpg](evidence/image.jpg) |
-| data.xlx | Suspect Excel file | [Download](evidence/data.xlx) | 
+| data.xlx | Suspect Excel file | [Download](evidence/data.xlsx) | 
    - All files contained **indicators of phishing/malware activity**  
 
 ---
