@@ -69,7 +69,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
     | `DaughtersCrown.jpeg`   | Contained a picture of a **crown**;  | Fake extension , strong phishing indicator. |
     | `Money.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
     
-    [📄 View  (PDF)](pretending-to-be-attached-pdf_file/PuzzleToCoCanDa.pdf)
+    [📄 View  (PDF)](inside_attached_zip_file/GoodJobMajor.pdf)
     ![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg) 
     [📥 Download data.xlsx](samples/data.xlsx)
 
