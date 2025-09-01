@@ -51,7 +51,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 2. **Email Body Investigation**  
    - Found **demand for money** and suspicious content
       
-     ![Email Content Screenshot](images/email_header_spf_fail.png)
+     ![Email Content Screenshot](images/sample_Email_with_AttachmentPdf.png)
      
    - Detected attachment disguised as a **PDF file** but actually a **ZIP archive**
 
