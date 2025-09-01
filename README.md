@@ -19,15 +19,15 @@ The objective of this project is to **analyze a suspicious email**, investigate 
    - [Email Body Investigation](#2-email-body-investigation)  
    - [Attachment Analysis](#3-attachment-analysis)  
 4. [Key Findings](#-key-findings)  
-5. [Questions and Answers](#-questions-and-answers )  
+5. [Q&A](#-q-&-a )  
 6. [Acknowledgment](#-acknowledgment)  
 7. [Conclusion](#-conclusion)  
 8. [License](#-licenset)
 
 ---
    ## 🚀 Project Overview  
- <sub>Phishing emails are one of the most common attack vectors used by threat actors.  
- In this project, I performed forensic analysis of a real-world style phishing email using different tools and techniques.</sub>
+  Phishing emails are one of the most common attack vectors used by threat actors.  
+ In this project, I performed forensic analysis of a real-world style phishing email using different tools and techniques.
   
  ---
   ## 📧 Email Sample
@@ -126,7 +126,7 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 
 ---
  ---
-## 📄 **License**
+# 📄 **License**
 
   This project is released under the [MIT License](LICENSE).
 ---
