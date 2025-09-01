@@ -64,9 +64,9 @@ In this project, I performed **forensic analysis** of a real-world style phishin
    - Found 3 files:  
      | File | Description | Link |
 |------|-------------|------|
-| document.pdf | Extracted PDF (disguised) | [Download](evidence/document.pdf) |
-| image.jpg | Evidence image (preview) | ![image.jpg](inside_attached_zip_file/DaughtersCrown.jpeg) |
-| data.xlx | Suspect Excel file | [Download](evidence/data.xlsx) | 
+| document.pdf | Extracted PDF (disguised) | 
+| image.jpg | Evidence image (preview) | 
+| data.xlx | Suspect Excel file | 
    - All files contained **indicators of phishing/malware activity**  
 
 ---
