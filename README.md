@@ -19,7 +19,7 @@ The objective of this project is to **analyze a suspicious email**, investigate 
    - [Email Body Investigation](#2-email-body-investigation)  
    - [Attachment Analysis](#3-attachment-analysis)  
 4. [Key Findings](#-key-findings)  
-5. [Q&A Section ](#qa-section )  
+5. [Questions and Answers](#-questions-and-answers )  
 6. [Acknowledgment](#-acknowledgment)  
 7. [Conclusion](#-conclusion)  
 8. [License](#-licenset)
