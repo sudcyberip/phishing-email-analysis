@@ -45,8 +45,9 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 1. **Email Header Analysis**  
    - Compared **Sender** and **Reply-To** addresses → found mismatch  
    - Identified **SPF failure** in authentication results
+      ---
      ![Email Content Screenshot](images/email_header_spf_fail.png) 
-
+    ---
 2. **Email Body Investigation**  
    - Found **demand for money** and suspicious content  
    - Detected attachment disguised as a **PDF file** but actually a **ZIP archive**  
