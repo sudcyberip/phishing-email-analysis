@@ -111,5 +111,13 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 
 ---
 
+## 🙌 Acknowledgment  
 
+- Special thanks to **[Blue Team Labs Online](https://blueteamlabs.online/)** for providing the lab environment and phishing investigation scenario.  
+- Tools like **CyberChef, ExifTool, GCK’s File Signature Table, Notepad++, and HxD** were instrumental in conducting this analysis.  
+- Inspired by real-world **email forensics and SOC (Security Operations Center) analysis workflows**.  
+---
+## 🧾 Conclusion
+
+👉 This investigation highlights the importance of **email security awareness**, **blue team defensive skills**, and the use of proper tools for identifying phishing attempts before they can cause damage.  
 
