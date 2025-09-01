@@ -21,4 +21,10 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 5. [Screenshots](#-screenshots)  
 6. [Repository Structure](#-repository-structure)  
 7. [Conclusion](#-conclusion)  
-8. [Acknowledgment](#-acknowledgment) 
+8. [Acknowledgment](#-acknowledgment)
+
+
+   ## 🚀 Project Overview  
+Phishing emails are one of the most common attack vectors used by threat actors.  
+In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
+
