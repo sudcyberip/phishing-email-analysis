@@ -1,4 +1,4 @@
-# 🛡️ Phishing Email Analysis Project  
+  # 🛡️ Phishing Email Analysis Project  
 
 This repository contains my **Phishing Email Analysis** project, completed in the **Blue Team Labs Online** environment.  
 The objective of this project is to **analyze a suspicious email**, investigate its attachments, and identify indicators of a phishing attempt.  
@@ -63,11 +63,11 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 
     -The suspicious ZIP file contained **three files**. Their analysis is summarized below:
 
-| File Name     | Observed Content / Behavior | Suspicious Indicators |
-|---------------|-----------------------------|------------------------|
-| `document.pdf` | File disguised as a PDF but part of the phishing archive. | Fake extension, used as a lure. |
-| `image.jpg`   | Contained a picture of a **daughter with a crown**; embedded message about **kidnapping people** and demand for **1 billion** ransom. | Hidden/extortion content, strong phishing/malware indicator. |
-| `data.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
+    | File Name     | Observed Content / Behavior | Suspicious Indicators |
+    |---------------|-----------------------------|------------------------|
+    | `GoodJobMajor.pdf` | Embedded message about **kidnapping people** and demand for **1 billion** ransom.. | Fake extension, used as a lure. |
+    | `DaughtersCrown.jpeg`   | Contained a picture of a **crown**;  | Fake extension , strong phishing indicator. |
+    | `Money.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
 
 ✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
  
