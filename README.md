@@ -59,15 +59,18 @@ In this project, I performed **forensic analysis** of a real-world style phishin
        - Check the file signature number  of pdf file and getting the   signature number  of zip file
          ![Email Content Screenshot](images/attachmentpdf_HEX_value.png) 
       ---
-3. **Attachment Analysis**  
-   - Extracted contents of the ZIP file  
-   - Found 3 files:  
-     | File | Description | Link |
-|------|-------------|------|
-| document.pdf | Extracted PDF (disguised) | 
-| image.jpg | Evidence image (preview) | 
-| data.xlx | Suspect Excel file | 
-   - All files contained **indicators of phishing/malware activity**  
+ 3. **Attachment Analysis**  
+
+    -The suspicious ZIP file contained **three files**. Their analysis is summarized below:
+
+| File Name     | Observed Content / Behavior | Suspicious Indicators |
+|---------------|-----------------------------|------------------------|
+| `document.pdf` | File disguised as a PDF but part of the phishing archive. | Fake extension, used as a lure. |
+| `image.jpg`   | Contained a picture of a **daughter with a crown**; embedded message about **kidnapping people** and demand for **1 billion** ransom. | Hidden/extortion content, strong phishing/malware indicator. |
+| `data.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
+
+✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
+ 
 
 ---
 
