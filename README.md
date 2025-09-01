@@ -73,10 +73,10 @@ In this project, I performed **forensic analysis** of a real-world style phishin
    
     ![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg)
      ---
-     [📄 View GoodJobMajor.pdf ](inside_attached_zip_file/GoodJobMajor.pdf)   |  [📄 Downlod Money.xlsx](inside_attached_zip_file/Money.xlsx)
+     [📄 View GoodJobMajor.pdf ](inside_attached_zip_file/GoodJobMajor.pdf)      |         [📄 Downlod Money.xlsx](inside_attached_zip_file/Money.xlsx)
    
 
-✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
+ ✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
  
 
 ---
