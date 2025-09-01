@@ -19,15 +19,15 @@ The objective of this project is to **analyze a suspicious email**, investigate 
    - [Email Body Investigation](#2-email-body-investigation)  
    - [Attachment Analysis](#3-attachment-analysis)  
 4. [Key Findings](#-key-findings)  
-5. [Q&A Section ](#-q&a-section )  
+5. [Q&A Section ](#-qa-section )  
 6. [Acknowledgment](#-acknowledgment)  
 7. [Conclusion](#-conclusion)  
 8. [License](#-licenset)
 
 ---
    ## 🚀 Project Overview  
-Phishing emails are one of the most common attack vectors used by threat actors.  
-In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
+   -Phishing emails are one of the most common attack vectors used by threat actors.  
+    In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
  ---
   ## 📧 Email Sample
   - **File:** [`A Hope to CoCanDa.eml`](https://github.com/sudcyberip/phishing-email-analysis/blob/728aac1d5b66999d7075182095eb44cc20458dd4/A%20Hope%20to%20CoCanDa.eml)
@@ -127,7 +127,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
  ---
 ## 📄 **License**
 
- This project is released under the [MIT License](LICENSE).
+ -This project is released under the [MIT License](LICENSE).
 ---
 
 > **Created by Sudip Mahato**
