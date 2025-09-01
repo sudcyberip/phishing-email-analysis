@@ -8,7 +8,7 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 
 ![Email Content Screenshot](images/scenerio_from_BTLO.png)
 
-
+---
 
 ## 📑 Table of Contents
 1. [Project Overview](#-project-overview)  
@@ -23,8 +23,21 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 7. [Conclusion](#-conclusion)  
 8. [Acknowledgment](#-acknowledgment)
 
-
+---
    ## 🚀 Project Overview  
 Phishing emails are one of the most common attack vectors used by threat actors.  
 In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
+
+
+---
+
+## 🔧 Tools Used  
+- 🧩 **CyberChef** → for decoding and analyzing encoded strings  
+- 🖼️ **ExifTool** → for extracting metadata from attachments  
+- 📑 **GCK’s File Signatures Table** → to verify file signatures & magic numbers  
+- 📝 **Notepad++** → for analyzing raw email headers and content  
+- 🛠️ **HxD** → for hexadecimal file inspection  
+
+---
+
 
