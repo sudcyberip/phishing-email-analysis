@@ -27,7 +27,14 @@ The objective of this project is to **analyze a suspicious email**, investigate 
    ## 🚀 Project Overview  
 Phishing emails are one of the most common attack vectors used by threat actors.  
 In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
-
+ ---
+  ## 📧 Email Sample
+  - **File:** [`sample-4831.eml`](sample-4831.eml)
+  - To: themajoronearth@gmail.com
+  - Subject: A Hope to CoCanDa
+  - From: "Bill" <billjobs@microapple.com>
+  - Reply-To: negeja3921@pashter.com
+  - Date: Tue, 26 Jan 2021 01:41:18 -0500 (EST)
 
 ---
 
