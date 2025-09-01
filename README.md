@@ -62,9 +62,11 @@ In this project, I performed **forensic analysis** of a real-world style phishin
 3. **Attachment Analysis**  
    - Extracted contents of the ZIP file  
    - Found 3 files:  
-     - `document.pdf`  
-     - `image.jpg`  
-     - `data.xlx`  
+     | File | Description | Link |
+|------|-------------|------|
+| document.pdf | Extracted PDF (disguised) | [Download](evidence/document.pdf) |
+| image.jpg | Evidence image (preview) | ![image.jpg](evidence/image.jpg) |
+| data.xlx | Suspect Excel file | [Download](evidence/data.xlx) | 
    - All files contained **indicators of phishing/malware activity**  
 
 ---
