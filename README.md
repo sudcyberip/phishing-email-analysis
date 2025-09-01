@@ -29,7 +29,7 @@ Phishing emails are one of the most common attack vectors used by threat actors.
 In this project, I performed **forensic analysis** of a real-world style phishing email using different tools and techniques.  
  ---
   ## 📧 Email Sample
-  - **File:** [`sample-4831.eml`](https://github.com/sudcyberip/phishing-email-analysis/blob/9809fe0a6556206a48db876b8bb938aee0a4c6d1/A%20Hope%20to%20CoCanDa.eml)
+  - **File:** [`sample-4831.eml`](A Hope to CoCanDa.eml)
   - To: themajoronearth@gmail.com
   - Subject: A Hope to CoCanDa
   - From: "Bill" <billjobs@microapple.com>
