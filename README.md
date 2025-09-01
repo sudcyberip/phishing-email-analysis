@@ -68,10 +68,13 @@ In this project, I performed **forensic analysis** of a real-world style phishin
     | `GoodJobMajor.pdf` | Embedded message about **kidnapping people** and demand for **1 billion** ransom.. | Fake extension, used as a lure. |
     | `DaughtersCrown.jpeg`   | Contained a picture of a **crown**;  | Fake extension , strong phishing indicator. |
     | `Money.xlsx`   | Showed **suspicious hidden content** and irregular metadata. | Possible malware delivery vector or data exfiltration attempt. |
-    
-    [📄 View  (PDF)](inside_attached_zip_file/GoodJobMajor.pdf)
-    ![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg) 
-    [📥 Download data.xlsx](inside_attached_zip_file/Money.xlsx)
+     ---
+     -All three Suspicious file Below   
+   
+    ![Email Content Screenshot](inside_attached_zip_file/DaughtersCrown.jpeg)
+     ---
+     [📄 View GoodJobMajor.pdf ](inside_attached_zip_file/GoodJobMajor.pdf)   |  [📄 Downlod Money.xlsx](inside_attached_zip_file/Money.xlsx)
+   
 
 ✅ Based on the above, all three files are **malicious artifacts** confirming the phishing nature of the email.
  
