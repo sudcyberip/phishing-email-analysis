@@ -11,17 +11,18 @@ The objective of this project is to **analyze a suspicious email**, investigate 
 ---
 
 ## 📑 Table of Contents
-1. [Project Overview](#-project-overview)  
-2. [Tools Used](#-tools-used)  
-3. [Analysis Steps](#-analysis-steps)  
+1. [Project Overview](#-project-overview)
+2. [Email Sample](#-email-sample)
+3. [Tools Used](#-tools-used)  
+4. [Analysis Steps](#-analysis-steps)  
    - [Email Header Analysis](#1-email-header-analysis)  
    - [Email Body Investigation](#2-email-body-investigation)  
    - [Attachment Analysis](#3-attachment-analysis)  
 4. [Key Findings](#-key-findings)  
-5. [Screenshots](#-screenshots)  
-6. [Repository Structure](#-repository-structure)  
+5. [Q&A Section ](#-q&a-section )  
+6. [Acknowledgment](#-acknowledgment)  
 7. [Conclusion](#-conclusion)  
-8. [Acknowledgment](#-acknowledgment)
+8. [License](#-licenset)
 
 ---
    ## 🚀 Project Overview  
@@ -126,7 +127,7 @@ In this project, I performed **forensic analysis** of a real-world style phishin
  ---
 ## 📄 **License**
 
-    This project is released under the [MIT License](LICENSE).
+ This project is released under the [MIT License](LICENSE).
 ---
 
 > **Created by Sudip Mahato**
